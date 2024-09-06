@@ -1,8 +1,9 @@
 import React from 'react';
+import './UserPage.css';
 
 const UserPage = () => {
     return (
-    <div>
+    <div className='header'>
         <h1>User Dashboard</h1>
       {/* User specific content */}
     </div>
